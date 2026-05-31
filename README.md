@@ -1,4 +1,4 @@
-# AI Lesson Planner (FirstCry)
+# AI Lesson Planner
 
 An intelligent, full-stack web application designed to generate engaging, age-appropriate lesson plans for children using Google's Gemini AI. The project provides an intuitive UI for educators to specify themes, age groups, teaching styles, and languages to instantly generate detailed lesson plans complete with circle time activities, main activities, creative ideas, and teacher tips.
 
